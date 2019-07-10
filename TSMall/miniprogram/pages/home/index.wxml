@@ -1,4 +1,4 @@
 <!--index.wxml-->
 <view class="container">
-
+  <t-home-swiper name="{{'123'}}"></t-home-swiper>
 </view>
